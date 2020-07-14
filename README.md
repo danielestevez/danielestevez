@@ -14,14 +14,9 @@
 
 ![danielestevez's github stats](https://github-readme-stats.vercel.app/api?username=danielestevez&show_icons=true&title_color=2e2e2e&hide=["issues"])
 
-[![HitCount](http://hits.dwyl.com/danielestevez/{project}.svg)](http://hits.dwyl.com/danielestevez/{project})
 
-
-
-### Want to know more? Open the colapsible menu below :)
-
-
-OS projects I've helped with
+### OS projects I've helped with
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=jclouds)](https://github.com/apache/jclouds)
  
+[![HitCount](http://hits.dwyl.com/danielestevez/{project}.svg)](http://hits.dwyl.com/danielestevez/{project})
