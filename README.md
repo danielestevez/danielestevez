@@ -5,7 +5,6 @@
 - 📫 How to reach me:
 [![](https://img.shields.io/badge/-Daniel%20Estevez-blue?logo=mastodon&style=flat-square)](https://fosstodon.org/web/@destevez)
 [![](https://img.shields.io/badge/-Daniel%20Estevez-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/daniestevez/)
-[![](https://img.shields.io/badge/-Daniel%20Estevez-blue?logo=twitter&style=flat-square)](https://twitter.com/danielestevez)
 
 **Languages:**  
 
